@@ -1,0 +1,11 @@
+question,expected_source,expected_answer_contains
+"What function creates a chat model from a provider string?",langchain_overview.md,init_chat_model
+"Which package holds the message types and the Runnable interface?",langchain_overview.md,langchain-core
+"Where did the legacy 0.x chains move to?",langchain_overview.md,langchain-classic
+"What does the add_messages reducer do?",langgraph_basics.md,append
+"What do you pass to compile() to persist state between calls?",langgraph_basics.md,checkpointer
+"How does a caller resume a graph after an interrupt?",langgraph_basics.md,Command(resume
+"Which stream mode yields LLM tokens as they are produced?",langgraph_basics.md,messages
+"What percentage of the grade is the capstone?",course_policies.md,25
+"When are capstone proposals due?",course_policies.md,November 12
+"What are the office hours?",course_policies.md,Wednesday

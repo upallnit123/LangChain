@@ -1,0 +1,21 @@
+id,ticket,label
+1,"Can't reset my password since Monday, the link in the email goes to a 404 page.",login
+2,"I was charged twice for November. Order #4471. Please refund one of them.",billing
+3,"The dashboard shows my course progress at 0% even though I finished three modules yesterday.",bug
+4,"Would be great if we could download lecture videos for offline viewing on the train.",feature
+5,"How do I change the email address on my account?",other
+6,"Two-factor code never arrives on my phone. Tried three times, no SMS.",login
+7,"Invoice PDF has the wrong company name on it. We need it corrected for accounting.",billing
+8,"Quiz submit button does nothing on Safari. Works on Chrome.",bug
+9,"Please add dark mode. The white background hurts at night.",feature
+10,"Is there a student discount for the annual plan?",billing
+11,"Getting 'session expired' every five minutes even while actively clicking around.",login
+12,"The certificate I downloaded has my name misspelled: 'Jonh' instead of 'John'.",bug
+13,"Can you support SSO with Google Workspace for our team of 40?",feature
+14,"What are your office hours? I want to talk to someone about the curriculum.",other
+15,"My card was declined but the money left my bank account. Where did it go?",billing
+16,"Video player buffers forever on the Week 3 lecture only; other weeks are fine.",bug
+17,"I'd like to be able to speed up videos to 2x. 1.5x is the max right now.",feature
+18,"Locked out after too many login attempts. How long until I can try again?",login
+19,"Can I transfer my seat to a coworker? I'm leaving the company.",other
+20,"The search box returns nothing for 'LangGraph' but the course clearly has that module.",bug
